@@ -2,7 +2,7 @@
 
 PH.D. candidate student
 
-KAIST Electrical Engineering
+Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
 Nano Integrated Circuit Expertise Lab.([web](http://nice.kaist.ac.kr))
 
@@ -16,7 +16,7 @@ Ultra low power wireless communication
 Wake-up Receiver
 
 ## EDUCATIONS
-Electrical Engineering, Ph.D., KAIST (Mar,2018 - Feb,2022 (Expected))
+Electrical Engineering, Ph.D., KAIST (Mar,2018 - )
 
 Electrical Engineering, Master, KAIST (Mar,2016 - Feb,2018)
 
