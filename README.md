@@ -4,7 +4,7 @@ PH.D. candidate student
 
 Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
-Nano Integrated Circuit Expertise Laboratory ([www](http://nice.kaist.ac.kr))
+Nano Integrated Circuit Expertise Laboratory ([web](http://nice.kaist.ac.kr))
 
 kkm53@kaist.ac.kr
 
