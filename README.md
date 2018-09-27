@@ -9,9 +9,9 @@ Nano Integrated Circuit Expertise Lab.([web](http://nice.kaist.ac.kr))
 kkm53@kaist.ac.kr
 
 ## RESEARCH INTERESTS
-CMOS integrated circuit
+CMOS integrated circuit design
 
-Ultra low power wireless communication
+Ultra low power wireless communication/transceiver
 
 Wake-up Receiver
 
@@ -20,13 +20,21 @@ Electrical Engineering, Ph.D., KAIST (Mar,2018 - )
 
 Electrical Engineering, Master, KAIST (Mar,2016 - Feb,2018)
 
-Electrical Engineering, Bachelor, KAIST (Feb,2010 - Feb,2016)
+Electrical Engineering, Bachelor, KAIST (Feb,2011 - Feb,2016)
 
 ## WORK EXPERIENCE
-Research intern, Institute for Communications Engineering and RF-Systems, Johannes Kepler University, Linz, Austria (Jul,2014 - Sep,2014)
-
 Research intern, Slicon works, Daejeon, Republic of Korea (Mar,2016 - Dec,2017)
 
+Research intern, Institute for Communications Engineering and RF-Systems, Johannes Kepler University, Linz, Austria (Jul,2014 - Sep,2014)
 
-## References
+## TEACHING EXPERIENCES
+Teaching assistant, EE403 Analog Electronic Circuits, KAIST (Sep,2017 - Feb,2018)
+
+Teaching assistant, EE105 Present and Future of Electronics Engineering, KAIST (Sep,2017 - Feb,2018)
+
+Teaching assistant, EE305 Introduction to Electronic Design Lab., KAIST (Mar,2017 - Aug,2017)
+
+Teaching assistant, EE405 Electronics Design Lab., KAIST (Mar,2017 - Aug,2017)
+
+## REFERENCES
 Prof. Sang-gug Lee, KAIST
