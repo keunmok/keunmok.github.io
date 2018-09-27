@@ -25,7 +25,7 @@ Electrical Engineering, Bachelor, KAIST (Feb,2011 - Feb,2016)
 ## WORK EXPERIENCE
 Research intern, Slicon works, Daejeon, Republic of Korea (Mar,2016 - Dec,2017)
 
-Research intern, Institute for Communications Engineering and RF-Systems, Johannes Kepler University, Linz, Austria (Jul,2014 - Sep,2014)
+Research intern, Institute for Communications Engineering and RF-Systems, JKU, Linz, Austria (Jul,2014 - Sep,2014)
 
 ## TEACHING EXPERIENCE
 Teaching assistant, EE403 Analog Electronic Circuits, KAIST (Sep,2017 - Feb,2018)
