@@ -15,6 +15,8 @@ Ultra low power wireless communication/transceiver
 
 Wake-up Receiver
 
+Mixer
+
 ## EDUCATION
 Electrical Engineering, Ph.D., KAIST (Mar,2018 - )
 
