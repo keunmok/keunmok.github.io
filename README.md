@@ -1,31 +1,29 @@
-# KEUNMOK KIM
+# KEUN-MOK KIM
 
 PH.D. candidate student
 
 Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
-Nano Integrated Circuit Expertise Laboratory ([web](http://nice.kaist.ac.kr))
+Nano Integrated Circuit Expertise Laboratory ([web] http://nice.kaist.ac.kr)
 
 kkm53@kaist.ac.kr
 
 ## RESEARCH INTEREST
 CMOS integrated circuit design
 
-Ultra low power wireless communication/transceiver
+Ultra low power wireless transceiver
 
-Wake-up Receiver
-
-Mixer
+Wake-up receiver
 
 ## EDUCATION
-Electrical Engineering, Ph.D., KAIST (Mar,2018 - )
+Electrical Engineering, Ph.D., KAIST (2018 - )
 
-Electrical Engineering, Master, KAIST (Mar,2016 - Feb,2018)
+Electrical Engineering, Master, KAIST (2016 - 2018)
 
-Electrical Engineering, Bachelor, KAIST (Feb,2011 - Feb,2016)
+Electrical Engineering, Bachelor, KAIST (2011 - 2016)
 
 ## WORK EXPERIENCE
-Research intern, Slicon works, Daejeon, Republic of Korea (Mar,2016 - Dec,2017)
+Research intern, Slicon Works, Daejeon, Republic of Korea (Mar,2016 - Dec,2017)
 
 Research intern, Institute for Communications Engineering and RF-Systems, JKU, Linz, Austria (Jul,2014 - Sep,2014)
 
