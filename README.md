@@ -4,7 +4,7 @@ PH.D. candidate student
 
 Electrical Engineering, KAIST, Daejeon, Republic of Korea
 
-Nano Integrated Circuit Expertise Laboratory ([web] http://nice.kaist.ac.kr)
+Nano Integrated Circuit Expertise Laboratory ([web](http://nice.kaist.ac.kr))
 
 kkm53@kaist.ac.kr
 
@@ -37,4 +37,4 @@ Teaching assistant, EE305 Introduction to Electronic Design Lab., KAIST (Mar,201
 Teaching assistant, EE405 Electronics Design Lab., KAIST (Mar,2017 - Aug,2017)
 
 ## REFERENCE
-Prof. Sang-gug Lee, KAIST
+Prof. Sang-Gug Lee, KAIST
